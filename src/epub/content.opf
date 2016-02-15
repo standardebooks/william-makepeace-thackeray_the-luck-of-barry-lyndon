@@ -24,7 +24,7 @@
 		<dc:subject id="subject-4">Ireland -- Fiaction</dc:subject>
 		<dc:subject id="subject-5">Europe -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Rogues and vagabonds -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Irish -- Foreign countries -- Fiction </dc:subject>
+		<dc:subject id="subject-7">Irish -- Foreign countries -- Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/4558</meta>
 		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/4558</meta>
 		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/4558</meta>
@@ -45,7 +45,7 @@
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Luck_of_Barry_Lyndon</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-makepeace-thackeray_barry-lyndon</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-makepeace-thackeray_the-luck-of-barry-lyndon</meta>
 		<dc:creator id="author">William Makepeace Thackeray</dc:creator>
 		<meta property="file-as" refines="#author">Thackeray, William Makepeace</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Makepeace_Thackeray</meta>
