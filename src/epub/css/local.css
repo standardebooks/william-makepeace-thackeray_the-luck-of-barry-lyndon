@@ -1,2 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+footer .signature{
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
