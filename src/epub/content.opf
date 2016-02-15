@@ -39,7 +39,7 @@
 			LONGDESCRIPTION
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/4558</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/100549181</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
