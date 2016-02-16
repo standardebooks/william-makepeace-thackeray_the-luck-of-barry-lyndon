@@ -41,9 +41,9 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/4558</dc:source>
-		<dc:source>http://catalog.hathitrust.org/Record/100549181</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<dc:source>http://catalog.hathitrust.org/Record/100549166</dc:source>
+		<meta property="se:word-count">127619</meta>
+		<meta property="se:reading-ease.flesch">59.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Luck_of_Barry_Lyndon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-makepeace-thackeray_the-luck-of-barry-lyndon</meta>
 		<dc:creator id="author">William Makepeace Thackeray</dc:creator>
@@ -51,8 +51,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Makepeace_Thackeray</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095677.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author">ann</meta>
 		<dc:contributor id="editor">Walter Jerrold</dc:contributor>
 		<meta property="file-as" refines="#editor">Jerrold, Walter</meta>
+		<meta property="role" refines="#editor">ann</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Walter_Jerrold</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n80040139.html</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
@@ -61,6 +63,20 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Steve Harris</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Harris, Steve</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Franks, Charles</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">http://http://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
