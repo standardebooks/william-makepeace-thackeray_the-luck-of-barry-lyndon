@@ -34,34 +34,35 @@ footer .signature,
 }
 
 [epub|type~="z3998:poem"] header{
-	text-align: center;
 }
 
 [epub|type~="z3998:poem"] header p{
 	font-variant: small-caps;
+	text-align: center;
 }
 
 [epub|type~="z3998:poem"] header p + p{
 	font-style: italic;
 	font-variant: normal;
+	margin: 0 0 1em 0;
 }
 
-[epub|type~="z3998:poem"] > p{
+[epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] > p span{
+[epub|type~="z3998:poem"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-[epub|type~="z3998:poem"] > p br{
+[epub|type~="z3998:poem"] br{
 	display: none;
 }
 
-[epub|type~="z3998:poem"] > p + p{
+[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
 
