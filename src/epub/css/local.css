@@ -1,9 +1,14 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-b{
+b,
+strong{
 	font-weight: normal;
 	font-variant: small-caps;
+}
+
+i em{
+	font-style: normal;
 }
 
 footer .signature,
