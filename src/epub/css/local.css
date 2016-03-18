@@ -6,8 +6,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-b,
-strong{
+b{
 	font-weight: normal;
 	font-variant: small-caps;
 }
