@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2016-03-18T22:30:35Z</dc:date>
+		<meta property="dcterms:modified">2016-03-18T22:30:35Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -18,6 +18,8 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Luck of Barry Lyndon</dc:title>
 		<meta property="file-as" refines="#title">Luck of Barry Lyndon, The</meta>
+		<dc:title id="title-short">Barry Lyndon</dc:title>
+		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">Humorous stories</dc:subject>
 		<dc:subject id="subject-3">Gamblers -- Fiction</dc:subject>
@@ -32,17 +34,19 @@
 		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/4558</meta>
 		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/4558</meta>
 		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Luck of Barry Lyndon&lt;/i&gt; was first published as a serial in &lt;i&gt;Fraser&amp;rsquo;s Magazine&lt;/i&gt;, then later as a complete volume entitled &lt;i&gt;The Memoirs of Barry Lyndon, Esq.&lt;/i&gt;&amp;mdash;a title Thackeray disliked, but that was selected by his publisher.  Thackeray had great difficulty composing the novel, and found himself frequently frustrated in his attempts to get Barry out of yet another jam.  Ultimately he was displeased with his work, and considered it one of his lesser novels.&lt;/p&gt;
+			&lt;p&gt;Despite Thackeray&amp;rsquo;s neglect, &lt;i&gt;Barry Lyndon&lt;/i&gt; is a bright satire filled with many genuinely funny moments.  Barry is the quintessential unreliable narrator, and through his outrageous boasts and tall tales he becomes not just the target of the satire, but its very agent as well.  Fortunately modern critics have viewed &lt;i&gt;Barry Lyndon&lt;/i&gt; in a much more favorable light than Thackeray&amp;rsquo;s contemporaries, and even Thackeray himself: today it&amp;rsquo;s considered by some critics as one of his finest works.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/4558</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/100549166</dc:source>
-		<meta property="se:word-count">127619</meta>
+		<meta property="se:word-count">127579</meta>
 		<meta property="se:reading-ease.flesch">59.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Luck_of_Barry_Lyndon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-makepeace-thackeray_the-luck-of-barry-lyndon</meta>
