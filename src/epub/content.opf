@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon</dc:identifier>
 		<dc:date>2016-03-18T22:30:35Z</dc:date>
-		<meta property="dcterms:modified">2016-05-04T00:33:54Z</meta>
+		<meta property="dcterms:modified">2016-05-10T04:43:51Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -27,13 +27,13 @@
 		<dc:subject id="subject-5">Europe -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Rogues and vagabonds -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Irish -- Foreign countries -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/4558</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/4558</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/4558</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/4558</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/4558</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/4558</meta>
+		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/4558</meta>
+		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/4558</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.</dc:description>
@@ -44,8 +44,8 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/4558</dc:source>
-		<dc:source>http://catalog.hathitrust.org/Record/100549166</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/4558</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100549166</dc:source>
 		<meta property="se:word-count">127579</meta>
 		<meta property="se:reading-ease.flesch">59.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Luck_of_Barry_Lyndon</meta>
