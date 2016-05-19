@@ -53,20 +53,20 @@
 		<dc:creator id="author">William Makepeace Thackeray</dc:creator>
 		<meta property="file-as" refines="#author">Thackeray, William Makepeace</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Makepeace_Thackeray</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095677.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095677</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author">ann</meta>
 		<dc:contributor id="editor">Walter Jerrold</dc:contributor>
 		<meta property="file-as" refines="#editor">Jerrold, Walter</meta>
 		<meta property="role" refines="#editor">ann</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Walter_Jerrold</meta>
-		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n80040139.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n80040139</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Pompeo Batoni</dc:contributor>
 		<meta property="file-as" refines="#artist">Batoni, Pompeo</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Pompeo Girolamo Batoni</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Pompeo_Batoni</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85013072.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85013072</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Steve Harris</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Harris, Steve</meta>
