@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-makepeace-thackeray/the-luck-of-barry-lyndon</dc:identifier>
 		<dc:date>2016-03-18T22:30:35Z</dc:date>
-		<meta property="dcterms:modified">2017-07-24T04:37:16Z</meta>
-		<meta property="se:revision-number">30</meta>
+		<meta property="dcterms:modified">2017-07-27T21:01:24Z</meta>
+		<meta property="se:revision-number">31</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,8 +40,8 @@
 		<dc:description id="description">A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Luck of Barry Lyndon&lt;/i&gt; was first published as a serial in &lt;i&gt;Fraser’s Magazine&lt;/i&gt;, then later as a complete volume entitled &lt;i&gt;The Memoirs of Barry Lyndon, Esq.&lt;/i&gt;—a title Thackeray disliked, but that was selected by his publisher.  Thackeray had great difficulty composing the novel, and found himself frequently frustrated in his attempts to get Barry out of yet another jam.  Ultimately he was displeased with his work, and considered it one of his lesser novels.&lt;/p&gt;
-			&lt;p&gt;Despite Thackeray’s neglect, &lt;i&gt;Barry Lyndon&lt;/i&gt; is a bright satire filled with many genuinely funny moments.  Barry is the quintessential unreliable narrator, and through his outrageous boasts and tall tales he becomes not just the target of the satire, but its very agent as well.  Fortunately modern critics have viewed &lt;i&gt;Barry Lyndon&lt;/i&gt; in a much more favorable light than Thackeray’s contemporaries, and even Thackeray himself: today it’s considered by some critics as one of his finest works.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Luck of Barry Lyndon&lt;/i&gt; was first published as a serial in &lt;i&gt;Fraser’s Magazine&lt;/i&gt;, then later as a complete volume entitled &lt;i&gt;The Memoirs of Barry Lyndon, Esq.&lt;/i&gt;—a title Thackeray disliked, but that was selected by his publisher. Thackeray had great difficulty composing the novel, and found himself frequently frustrated in his attempts to get Barry out of yet another jam. Ultimately he was displeased with his work, and considered it one of his lesser novels.&lt;/p&gt;
+			&lt;p&gt;Despite Thackeray’s neglect, &lt;i&gt;Barry Lyndon&lt;/i&gt; is a bright satire filled with many genuinely funny moments. Barry is the quintessential unreliable narrator, and through his outrageous boasts and tall tales he becomes not just the target of the satire, but its very agent as well. Fortunately modern critics have viewed &lt;i&gt;Barry Lyndon&lt;/i&gt; in a much more favorable light than Thackeray’s contemporaries, and even Thackeray himself: today it’s considered by some critics as one of his finest works.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
