@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 520">
 	<title>The titlepage for the Standard Ebooks edition of The Luck of Barry Lyndon, by William Makepeace Thackeray</title>
-	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE LUCK OF</text>
-	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="230">BARRY LYNDON</text>
-	<text style="font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="390">WILLIAM MAKEPEACE</text>
-	<text style="font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="470">THACKERAY</text>
+	<style type="text/css">
+		text{
+			font-family: League Spartan;
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 70.17543793px;
+		}
+	</style>
+	<text class="title" x="700" y="130">THE LUCK OF</text>
+	<text class="title" x="700" y="230">BARRY LYNDON</text>
+	<text class="author" x="700" y="390">WILLIAM MAKEPEACE</text>
+	<text class="author" x="700" y="470">THACKERAY</text>
 </svg>
