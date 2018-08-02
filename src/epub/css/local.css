@@ -1,18 +1,9 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
-}
-
-b{
-	font-weight: normal;
-	font-variant: small-caps;
 }
 
 i em{
@@ -30,6 +21,7 @@ footer .signature,
 
 [epub|type~="z3998:letter"] header{
 	font-style: italic;
+	text-align: left;
 }
 
 [epub|type~="z3998:letter"] header + p{
