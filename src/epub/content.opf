@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Luck of Barry Lyndon</dc:title>
 		<meta property="file-as" refines="#title">Luck of Barry Lyndon, The</meta>
 		<dc:title id="title-short">Barry Lyndon</dc:title>
@@ -38,22 +38,27 @@
 		<dc:subject id="subject-5">Europe -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Rogues and vagabonds -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Irish -- Foreign countries -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/4558</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/4558</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85117645</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85062975</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008105026</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008104236</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008114931</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008110990</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008124143</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A poor Irish rogue tries to win fame and fortune in the 18th-century English aristocracy.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Luck of Barry Lyndon&lt;/i&gt; was first published as a serial in &lt;i&gt;Fraser’s Magazine&lt;/i&gt;, then later as a complete volume entitled &lt;i&gt;The Memoirs of Barry Lyndon, Esq.&lt;/i&gt;—a title Thackeray disliked, but that was selected by his publisher. Thackeray had great difficulty composing the novel, and found himself frequently frustrated in his attempts to get Barry out of yet another jam. Ultimately he was displeased with his work, and considered it one of his lesser novels.&lt;/p&gt;
 			&lt;p&gt;Despite Thackeray’s neglect, &lt;i&gt;Barry Lyndon&lt;/i&gt; is a bright satire filled with many genuinely funny moments. Barry is the quintessential unreliable narrator, and through his outrageous boasts and tall tales he becomes not just the target of the satire, but its very agent as well. Fortunately modern critics have viewed &lt;i&gt;Barry Lyndon&lt;/i&gt; in a much more favorable light than Thackeray’s contemporaries, and even Thackeray himself: today it’s considered by some critics as one of his finest works.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4558</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100549166</dc:source>
