@@ -5,7 +5,11 @@ i em{
 	font-style: normal;
 }
 
-footer [epub|type~="z3998:signature"],
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 [epub|type~="z3998:letter"] [epub|type~="z3998:signature"]{
 	text-align: right;
 }
