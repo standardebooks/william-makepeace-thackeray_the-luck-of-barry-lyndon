@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="foreword.xhtml">
-		<ignore>
-			<code>t-007</code>
-			<reason>Possessive s is part of the magazine name.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
