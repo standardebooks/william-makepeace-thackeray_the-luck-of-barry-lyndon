@@ -30,7 +30,9 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Luck of Barry Lyndon</dc:title>
 		<meta property="file-as" refines="#title">Luck of Barry Lyndon, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="title-short">Barry Lyndon</dc:title>
+		<meta property="file-as" refines="#title-short">Barry Lyndon</meta>
 		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">Humorous stories</dc:subject>
