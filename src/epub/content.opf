@@ -64,7 +64,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4558</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100549166</dc:source>
 		<meta property="se:word-count">127963</meta>
-		<meta property="se:reading-ease.flesch">59.47</meta>
+		<meta property="se:reading-ease.flesch">59.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Luck_of_Barry_Lyndon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-makepeace-thackeray_the-luck-of-barry-lyndon</meta>
 		<dc:creator id="author">William Makepeace Thackeray</dc:creator>
