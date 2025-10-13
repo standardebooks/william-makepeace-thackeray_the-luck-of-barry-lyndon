@@ -78,7 +78,7 @@
 		<meta property="file-as" refines="#editor">Jerrold, Walter</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Walter_Jerrold</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n80040139</meta>
-		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">Pompeo Batoni</dc:contributor>
