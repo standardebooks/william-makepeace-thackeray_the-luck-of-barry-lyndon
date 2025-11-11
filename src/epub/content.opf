@@ -81,6 +81,7 @@
 		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">Pompeo Batoni</dc:contributor>
 		<meta property="file-as" refines="#artist">Batoni, Pompeo</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Pompeo Girolamo Batoni</meta>
