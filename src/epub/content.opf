@@ -36,11 +36,11 @@
 		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">Humorous stories</dc:subject>
-		<dc:subject id="subject-3">Gamblers -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Ireland -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Europe -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Rogues and vagabonds -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Irish -- Foreign countries -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Gamblers--Fiction</dc:subject>
+		<dc:subject id="subject-4">Ireland--Fiction</dc:subject>
+		<dc:subject id="subject-5">Europe--Fiction</dc:subject>
+		<dc:subject id="subject-6">Rogues and vagabonds--Fiction</dc:subject>
+		<dc:subject id="subject-7">Irish--Foreign countries--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85117645</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
